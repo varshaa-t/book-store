@@ -1,4 +1,4 @@
-# Book Store
+# Book Store App
 
 This is a book store website with frontend and backend using the MERN stack.
 
