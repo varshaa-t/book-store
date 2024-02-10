@@ -2,6 +2,12 @@
 
 This is a book store website with frontend and backend using the MERN stack.
 
+## How it Looks
+
+![Table](https://github.com/varshaa-t/book-store/assets/60147227/27908fb9-9bd6-4a18-b26a-6317ad7a12cf)
+
+![Card](https://github.com/varshaa-t/book-store/assets/60147227/dc1fbafd-5cf9-4c73-9dca-b648dbb99e92)
+
 ## Setup the Project Locally
 
 - Clone the repository by running: git clone https://github.com/varshaa-t/book-store.git
@@ -9,35 +15,38 @@ This is a book store website with frontend and backend using the MERN stack.
 - Go to the project folder using an IDE of your preference.
 
 - In the backend folder, create a .env file. To the file add a link to your MongoDB DataBase:
-&nbsp;&nbsp;mongoDBURL = "Your URL"
+  
+  mongoDBURL = "Your URL"
 
 - Open a terminal in the project folder and run the following commands:
 
-&nbsp;&nbsp;cd backend
-&nbsp;&nbsp;nodemon index.js
+  cd backend
+  
+  nodemon index.js
 
-&nbsp;&nbsp;OR
+  OR
 
-&nbsp;&nbsp;cd backend
-&nbsp;&nbsp;node index.js
+  cd backend
+  
+  node index.js
 
 - Open another terminal and run: cd frontend
 
-&nbsp;&nbsp;Now run: 
+  Now run: 
 
-&nbsp;&nbsp;npm install vite --save-dev
+  npm install vite --save-dev
 
-&nbsp;&nbsp;OR
+  OR
 
-&nbsp;&nbsp;yarn add vite --dev
+  yarn add vite --dev
 
 - In the same folder, run: 
 
-&nbsp;&nbsp;npm run dev
+  npm run dev
 
-&nbsp;&nbsp;OR
+  OR
 
-&nbsp;&nbsp;yarn dev
+  yarn dev
 
 - Click on the link and you get your own Book Store App!
 
