@@ -19,34 +19,37 @@ This is a book store website with frontend and backend using the MERN stack.
   mongoDBURL = "Your URL"
 
 - Open a terminal in the project folder and run the following commands:
-
+  ```
   cd backend
   
   nodemon index.js
 
-  OR
+  #OR
 
   cd backend
   
   node index.js
+  ```
 
 - Open another terminal and run: cd frontend
 
   Now run: 
-
+  ```
   npm install vite --save-dev
 
-  OR
+  #OR
 
   yarn add vite --dev
+  ```
 
 - In the same folder, run: 
-
+  ```
   npm run dev
 
-  OR
+  #OR
 
   yarn dev
+  ```
 
 - Click on the link and you get your own Book Store App!
 
